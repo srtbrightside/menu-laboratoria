@@ -1,0 +1,5 @@
+@media (max-width: 40em) {
+  .menu ul li {
+    width: 100%;
+  }
+}
